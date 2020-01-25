@@ -1,0 +1,2 @@
+# Ghita
+invat sa programez
